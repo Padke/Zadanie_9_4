@@ -1,4 +1,3 @@
-
 function drawTree (height) {
    for (var i = 1; i <= height; i++) {
        var space = '';
